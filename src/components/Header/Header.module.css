@@ -23,6 +23,6 @@
 
 .linkActive {
   composes: link;
-  color: orangered;
+  color: rgb(247, 7, 187);
   font-weight: 800;
 }
